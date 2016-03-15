@@ -1,0 +1,6 @@
+[submodule "oh-my-zsh-custom"]
+	path = oh-my-zsh-custom
+	url = https://github.com/awan1/oh-my-zsh-custom
+[submodule "custom"]
+	path = custom
+	url = https://github.com/awan1/oh-my-zsh-custom
